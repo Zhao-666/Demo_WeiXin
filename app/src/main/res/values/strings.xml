@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeiXin</string>
+    <string name="app_title">微信</string>
+    <string name="search">搜索</string>
+    <string name="people">通讯录</string>
+    <string name="chat">微信</string>
+    <string name="find">发现</string>
+    <string name="me">我</string>
+</resources>
